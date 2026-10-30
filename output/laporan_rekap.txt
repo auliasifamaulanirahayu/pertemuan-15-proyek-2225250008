@@ -1,0 +1,12 @@
+============================================
+   LAPORAN REKAPITULASI NILAI MATEMATIKA    
+============================================
+
+Jumlah Siswa Valid : 6 orang
+Rata-rata Kelas    : 65.00
+Nilai Tertinggi    : 100.0
+Nilai Terendah     : 0.0
+--------------------------------------------
+Siswa Tuntas (>=60): 4 orang
+Siswa Belum Tuntas : 2 orang
+============================================
